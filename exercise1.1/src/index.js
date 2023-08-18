@@ -22,11 +22,15 @@ const App = () => {
     )
   }
 
+  const Total = () => {
+    return <p>Number of exercises {exercises1 + exercises2 + exercises3}</p>
+  }
+
   return (
     <div>
       <Header course={course} />
       <Content />
-      <p>Number of exercises {exercises1 + exercises2 + exercises3}</p>
+      <Total />
     </div>
   )
 }
