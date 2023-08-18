@@ -32,3 +32,8 @@ For support, email apchopito@gmail.com.
 ## Authors
 
 - [@imchopi](https://www.github.com/imchopi)
+## Acknowledgements
+
+ - [Author of Readme.so](https://github.com/octokatherine)
+  - [Readme.so](https://www.makeareadme.com/)
+
