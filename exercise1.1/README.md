@@ -25,6 +25,11 @@ You decide which exercise you want to try and done.
   cd <exercise_name>
   npm start
 ```
+
+Finally, in the browser, type . . .
+```bash
+  localhost:<port>
+```
     
 ## Support
 
