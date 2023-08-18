@@ -1,5 +1,5 @@
 
-# Project Title
+# Exercises REACT
 
 A list of exercises done in React to prepare 2nd DAM
 
