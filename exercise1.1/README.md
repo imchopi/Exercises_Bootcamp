@@ -40,5 +40,4 @@ For support, email apchopito@gmail.com.
 ## Acknowledgements
 
  - [Author of Readme.so](https://github.com/octokatherine)
-  - [Readme.so](https://www.makeareadme.com/)
-
+  - [Readme.so](https://readme.so/)
